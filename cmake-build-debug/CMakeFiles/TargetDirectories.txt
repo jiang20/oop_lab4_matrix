@@ -1,0 +1,3 @@
+C:/Users/cxz/CLionProjects/oop_lab4_matrix/cmake-build-debug/CMakeFiles/oop_lab4_matrix.dir
+C:/Users/cxz/CLionProjects/oop_lab4_matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cxz/CLionProjects/oop_lab4_matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
